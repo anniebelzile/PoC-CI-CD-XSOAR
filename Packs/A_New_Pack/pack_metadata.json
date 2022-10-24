@@ -1,0 +1,23 @@
+{
+    "name": "A New Pack",
+    "description": "Testing CI CD process..",
+    "support": "developer",
+    "currentVersion": "1.0.0",
+    "author": "Annie B",
+    "url": "",
+    "email": "",
+    "categories": [
+        "Case Management"
+    ],
+    "tags": [
+        "test-pack"
+    ],
+    "useCases": [],
+    "keywords": [],
+    "marketplaces": [
+        "xsoar"
+    ],
+    "githubUser": [
+        "anniebelzile"
+    ]
+}
